@@ -1,5 +1,10 @@
- this is a .txt
+ remove a sentence
 
  using git and downloading notepadd++ now
 
- typing with vim 
+ typing with vim
+
+
+
+ this is adding
+ this is addding
