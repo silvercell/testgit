@@ -1,0 +1,5 @@
+ this is a .txt
+
+ using git and downloading notepadd++ now
+
+ typing with vim 
